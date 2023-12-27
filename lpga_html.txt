@@ -1,0 +1,3191 @@
+<table class="table">
+            <thead>
+                <tr class="table-header">
+                    <!-- NOTE:  will center text
+                        .wide will make width to 40%
+                        .slim will make width to 15%
+                        columns without wide or slim are naturally on auto
+                        -->
+                        <th class="table-coltitle">Rank</th>
+                        <th class="table-coltitle">Name</th>
+						<th class="table-coltitle">Total Rounds</th>
+                        <th class="table-coltitle">SG Total - Per Round</th>
+                        <th class="table-coltitle">SG Total</th>
+                        <th class="table-coltitle">SG Tee to Green</th>
+                        <th class="table-coltitle">SG Putting</th>
+
+                </tr>
+            </thead>
+            <tbody>
+
+				
+<!--==================================Player Start============================================-->				
+				
+  <tr class="body">
+    <td class="table-content ">1</td>
+    <td class="table-content left">
+		<a href="/players/danielle-kang/88561/overview">
+			<div class="flag"><img src="-/media/images/global/countries/usa.png?mw=114&amp;mh=78" alt="United States"></div>Danielle Kang
+		</a></td>
+	<td class="table-content ">8</td>
+    <td class="table-content ">4.01</td>
+    <td class="table-content ">32.05</td>
+    <td class="table-content ">20.25</td>
+    <td class="table-content ">11.80</td>
+
+
+  </tr>
+  
+<!--==================================Player End============================================-->  
+  
+  
+  
+<!--==================================Player Start============================================-->				
+				
+  <tr class="body">
+    <td class="table-content ">2</td>
+    <td class="table-content left">
+			<a href="/players/charley-hull/98215/overview">
+				<div class="flag">
+						<img src="-/media/images/global/countries/eng.png?mw=114&amp;mh=78" alt="England">
+				</div>
+				Charley Hull
+			</a>
+    </td>
+	<td class="table-content ">7</td>
+    <td class="table-content ">2.98</td>
+    <td class="table-content ">20.88</td>
+    <td class="table-content ">13.80</td>
+    <td class="table-content ">7.08</td>
+
+
+  </tr>
+  
+<!--==================================Player End============================================-->  
+  
+  
+  
+<!--==================================Player Start============================================-->				
+				
+  <tr class="body">
+	    <td class="table-content ">2</td>
+	       <td class="table-content left">
+	   			<a href="/players/lexi-thompson/98184/overview">
+	   				<div class="flag">
+	   						<img src="-/media/images/global/countries/usa.png?mw=114&amp;mh=78" alt="United States">
+	   				</div>
+	   				Lexi Thompson
+	   			</a>
+	       </td>
+	<td class="table-content ">7</td>
+    <td class="table-content ">2.98</td>
+    <td class="table-content ">20.88</td>
+    <td class="table-content ">12.18</td>
+    <td class="table-content ">8.70</td>
+
+
+  </tr>
+  
+<!--==================================Player End============================================-->  
+  
+  
+  
+<!--==================================Player Start============================================-->				
+				
+  <tr class="body">
+    <td class="table-content ">4</td>
+    <td class="table-content left">
+		<a href="/players/brooke-henderson/98267/overview">
+			<div class="flag"><img src="-/media/images/global/countries/can.png?mw=114&amp;mh=78" alt="United States"></div>Brooke M. Henderson
+		</a></td>
+	<td class="table-content ">11</td>
+    <td class="table-content ">2.72</td>
+    <td class="table-content ">29.92</td>
+    <td class="table-content ">28.99</td>
+    <td class="table-content ">0.93</td>
+
+
+  </tr>
+  
+<!--==================================Player End============================================-->  
+  
+  
+  
+<!--==================================Player Start============================================-->				
+				
+  <tr class="body">
+		    <td class="table-content ">5</td>
+		    <td class="table-content left">
+					<a href="/players/gaby-lopez/53696/overview">
+						<div class="flag">
+								<img src="-/media/images/global/countries/mex.png?mw=114&amp;mh=78" alt="Mexico">
+						</div>
+						Gaby Lopez
+					</a>
+		    </td>
+	<td class="table-content ">10</td>
+    <td class="table-content ">1.88</td>
+    <td class="table-content ">15.04</td>
+    <td class="table-content ">8.45</td>
+    <td class="table-content ">6.59</td>
+
+
+  </tr>
+  
+<!--==================================Player End============================================-->  
+  
+  
+  
+<!--==================================Player Start============================================-->				
+				
+  <tr class="body">
+			    <td class="table-content ">
+			6    </td>
+			    <td class="table-content left">
+						<a href="/players/lydia-ko/98109/overview">
+							<div class="flag">
+<img src="-/media/images/global/countries/nzl.png?mw=114&amp;mh=78" alt="New Zealand">
+							</div>
+							Lydia Ko</a></td>
+	<td class="table-content ">8</td>
+    <td class="table-content ">2.63</td>
+    <td class="table-content ">21.04</td>
+    <td class="table-content ">10.52</td>
+    <td class="table-content ">10.52</td>
+
+
+  </tr>
+  
+<!--==================================Player End============================================-->   
+  
+  
+
+<!--==================================Player Start============================================-->				
+				
+  <tr class="body">
+		<td class="table-content ">7</td>
+				      <td class="table-content left">
+				  			<a href="/players/leona-maguire/98270/overview">
+				  				<div class="flag">
+				  						<img src="-/media/images/global/countries/irl.jpg?mw=114&amp;mh=78" alt="Ireland">
+				  				</div>
+				  				Leona Maguire
+				  			</a>
+				      </td>
+	<td class="table-content ">7</td>
+    <td class="table-content ">2.55</td>
+    <td class="table-content ">17.88</td>
+    <td class="table-content ">13.02</td>
+    <td class="table-content ">4.86</td>
+
+
+  </tr>
+  
+<!--==================================Player End============================================-->  
+
+
+  
+<!--==================================Player Start============================================-->				
+				
+  <tr class="body">
+			    <td class="table-content ">8</td>
+			    <td class="table-content left">
+						<a href="/players/celine-boutier/98355/overview">
+							<div class="flag">
+									<img src="-/media/images/global/countries/fra.png?mw=114&amp;mh=78" alt="France">
+							</div>
+							Celine Boutier</a></td>
+	<td class="table-content ">10</td>
+    <td class="table-content ">2.44</td>
+    <td class="table-content ">24.41</td>
+    <td class="table-content ">16.37</td>
+    <td class="table-content ">8.04</td>
+
+
+  </tr>
+  
+<!--==================================Player End============================================-->   
+  
+ <!--==================================Player Start============================================-->				
+				
+   <tr class="body">
+ 			       <td class="table-content ">9</td>
+ 			       <td class="table-content left">
+ 			   			<a href="/players/yuka-saso/100129/overview">
+ 			   				<div class="flag">
+ 			   						<img src="-/media/images/global/countries/jpn.png?mw=114&amp;mh=78" alt="Japan">
+ 			   				</div>
+ 			   				Yuka Saso</a></td>
+ 	<td class="table-content ">10</td>
+     <td class="table-content ">2.28</td>
+     <td class="table-content ">22.82</td>
+     <td class="table-content ">19.78</td>
+     <td class="table-content ">3.04</td>
+
+
+   </tr>
+  
+ <!--==================================Player End============================================--> 
+  
+  
+
+ <!--==================================Player Start============================================-->				
+				
+   <tr class="body">
+ 	    <td class="table-content ">10</td>
+	       <td class="table-content left">
+	   			<a href="/players/hye-jin-choi/98598/overview">
+	   				<div class="flag">
+	   						<img src="-/media/images/global/countries/kor.png?mw=114&amp;mh=78" alt="Republic of Korea">
+	   				</div>
+	   				Hye-Jin Choi
+	   			</a>
+	       </td>
+ 	<td class="table-content ">7</td>
+     <td class="table-content ">2.12</td>
+     <td class="table-content ">14.87</td>
+     <td class="table-content ">13.93</td>
+     <td class="table-content ">0.94</td>
+
+
+   </tr>
+  
+ <!--==================================Player End============================================-->   
+
+
+<!--==================================Player Start============================================-->				
+				
+  <tr class="body">
+		<td class="table-content ">11</td>
+				      <td class="table-content left">
+				  			<a href="/players/sarah-schmelzel/98951/overview">
+				  				<div class="flag">
+				  						<img src="-/media/images/global/countries/usa.png?mw=114&amp;mh=78" alt="United States">
+				  				</div>
+				  				Sarah Schmelzel
+				  			</a>
+				      </td>
+	<td class="table-content ">7</td>
+    <td class="table-content ">1.98</td>
+    <td class="table-content ">13.88</td>
+    <td class="table-content ">3.35</td>
+    <td class="table-content ">10.53</td>
+
+
+  </tr>
+  
+<!--==================================Player End============================================-->   
+  
+  
+  
+
+<!--==================================Player Start============================================-->				
+				
+  <tr class="body">
+		    <td class="table-content ">11</td>
+		    <td class="table-content left">
+					<a href="/players/pauline-roussin-bouchard/100116/overview">
+						<div class="flag">
+								<img src="-/media/images/global/countries/fra.png?mw=114&amp;mh=78" alt="France">
+						</div>
+						Pauline Roussin-Bouchard
+					</a>
+		    </td>
+	<td class="table-content ">7</td>
+    <td class="table-content ">1.98</td>
+    <td class="table-content ">13.89</td>
+    <td class="table-content ">7.29</td>
+    <td class="table-content ">6.60</td>
+
+
+  </tr>
+  
+<!--==================================Player End============================================-->  
+  
+  
+  
+  
+<!--==================================Player Start============================================-->				
+				
+  <tr class="body">
+		    <td class="table-content ">13</td>
+		    <td class="table-content left">
+					<a href="/players/nelly-korda/98350/overview">
+						<div class="flag">
+								<img src="-/media/images/global/countries/usa.png?mw=114&amp;mh=78" alt="United States">
+						</div>
+						Nelly Korda</a></td>
+	<td class="table-content ">11</td>
+    <td class="table-content ">1.90</td>
+    <td class="table-content ">20.93</td>
+    <td class="table-content ">18.35</td>
+    <td class="table-content ">2.58</td>
+
+
+  </tr>
+  
+<!--==================================Player End============================================-->  
+  
+  
+  
+  
+<!--==================================Player Start============================================-->				
+				
+  <tr class="body">
+				       <td class="table-content ">14</td>
+				      <td class="table-content left">
+				  			<a href="/players/aditi-ashok/98652/overview">
+				  				<div class="flag">
+				  						<img src="-/media/images/global/countries/ind.png?mw=114&amp;mh=78" alt="India">
+				  				</div>
+				  				Aditi Ashok
+				  			</a>
+				      </td>
+	<td class="table-content ">7</td>
+    <td class="table-content ">1.84</td>
+    <td class="table-content ">12.87</td>
+    <td class="table-content ">0.99</td>
+    <td class="table-content ">11.88</td>
+
+
+  </tr>
+  
+<!--==================================Player End============================================-->     
+
+
+
+
+<!--==================================Player Start============================================-->				
+				
+  <tr class="body">
+		<td class="table-content ">15</td>
+		    <td class="table-content left">
+					<a href="/players/marina-alex/98011/overview">
+						<div class="flag">
+								<img src="-/media/images/global/countries/usa.png?mw=114&amp;mh=78" alt="United States">
+						</div>
+						Marina Alex
+					</a>
+		    </td>
+	<td class="table-content ">7</td>
+    <td class="table-content ">1.70</td>
+    <td class="table-content ">11.88</td>
+    <td class="table-content ">8.40</td>
+    <td class="table-content ">3.48</td>
+
+
+  </tr>
+  
+<!--==================================Player End============================================-->   
+
+
+
+<!--==================================Player Start============================================-->				
+				
+  <tr class="body">
+		<td class="table-content ">15</td>
+	       <td class="table-content left">
+	   			<a href="/players/xiyu-lin/98106/overview">
+	   				<div class="flag">
+	   						<img src="-/media/images/global/countries/chn.png?mw=114&amp;mh=78" alt="China">
+	   				</div>
+	   				Xiyu Lin
+	   			</a>
+	       </td>
+	<td class="table-content ">7</td>
+    <td class="table-content ">1.70</td>
+    <td class="table-content ">11.89</td>
+    <td class="table-content ">14.41</td>
+    <td class="table-content ">-2.52</td>
+
+
+  </tr>
+  
+<!--==================================Player End============================================-->   
+
+
+
+
+
+<!--==================================Player Start============================================-->				
+				
+  <tr class="body">
+			    <td class="table-content ">17</td>
+				<td class="table-content left">
+							<a href="/players/jenny-shin/88308/overview">
+								<div class="flag">
+										<img src="-/media/images/global/countries/kor.png?mw=114&amp;mh=78" alt="Republic of Korea">
+								</div>
+								Jenny Shin
+							</a>
+				    </td>
+	<td class="table-content ">5</td>
+    <td class="table-content ">1.68</td>
+    <td class="table-content ">8.38</td>
+    <td class="table-content ">7.51</td>
+    <td class="table-content ">0.87</td>
+
+
+  </tr>
+  
+<!--==================================Player End============================================-->    
+
+
+
+
+<!--==================================Player Start============================================-->				
+				
+  <tr class="body">
+		    <td class="table-content ">18</td>
+		    <td class="table-content left">
+					<a href="/players/jessica-korda/88399/overview">
+						<div class="flag">
+								<img src="-/media/images/global/countries/usa.png?mw=114&amp;mh=78" alt="United States">
+						</div>
+						Jessica Korda
+					</a>
+		    </td>
+	<td class="table-content ">8</td>
+    <td class="table-content ">1.63</td>
+    <td class="table-content ">13.04</td>
+    <td class="table-content ">3.89</td>
+    <td class="table-content ">9.15</td>
+
+
+  </tr>
+  
+<!--==================================Player End============================================-->    
+
+
+
+
+
+<!--==================================Player Start============================================-->				
+				
+  <tr class="body">
+		<td class="table-content ">19</td>
+				       <td class="table-content left">
+				   			<a href="/players/patty-tavatanakit/98501/overview">
+				   				<div class="flag">
+				   						<img src="-/media/images/global/countries/tha.png?mw=114&amp;mh=78" alt="Thailand">
+				   				</div>
+				   				Patty Tavatanakit</a></td>
+	<td class="table-content ">11</td>
+    <td class="table-content ">1.54</td>
+    <td class="table-content ">16.94</td>
+    <td class="table-content ">-5.72</td>
+    <td class="table-content ">22.66</td>
+
+
+  </tr>
+  
+<!--==================================Player End============================================-->   
+
+
+
+
+
+ <!--==================================Player Start============================================-->				
+				
+   <tr class="body">
+			      <td class="table-content ">20</td>
+			     <td class="table-content left">
+			 			<a href="/players/brittany-altomare/98010/overview">
+			 				<div class="flag">
+			 						<img src="-/media/images/global/countries/usa.png?mw=114&amp;mh=78" alt="United States">
+			 				</div>
+			 				Brittany Altomare
+			 			</a>
+			     </td>
+ 	<td class="table-content ">5</td>
+     <td class="table-content ">1.49</td>
+     <td class="table-content ">7.44</td>
+     <td class="table-content ">6.20</td>
+     <td class="table-content ">1.24</td>
+
+
+   </tr>
+  
+ <!--==================================Player End============================================--> 
+
+
+
+
+ <!--==================================Player Start============================================-->				
+				
+   <tr class="body">
+		       <td class="table-content ">21</td>
+					    <td class="table-content left">
+					   			<a href="/players/stacy-lewis/88105/overview">
+					   				<div class="flag">
+<img src="-/media/images/global/countries/usa.png?mw=114&amp;mh=78" alt="United States">
+					   				</div>
+					   				Stacy Lewis</a></td>
+ 	<td class="table-content ">11</td>
+     <td class="table-content ">1.45</td>
+     <td class="table-content ">15.93</td>
+     <td class="table-content ">9.38</td>
+     <td class="table-content ">6.55</td>
+
+
+   </tr>
+  
+ <!--==================================Player End============================================--> 
+ 
+ 
+
+
+
+<!--==================================Player Start============================================-->				
+				
+  <tr class="body">
+				       <td class="table-content ">22</td>
+				     <td class="table-content left">
+				 			<a href="/players/amy-yang/82901/overview">
+				 				<div class="flag">
+				 						<img src="-/media/images/global/countries/kor.png?mw=114&amp;mh=78" alt="Republic of Korea">
+				 				</div>
+				 				Amy Yang
+				 			</a>
+				     </td>
+	<td class="table-content ">7</td>
+    <td class="table-content ">1.41</td>
+    <td class="table-content ">9.87</td>
+    <td class="table-content ">16.99</td>
+    <td class="table-content ">-7.12</td>
+
+
+  </tr>
+  
+<!--==================================Player End============================================-->   
+ 
+
+
+
+<!--==================================Player Start============================================-->				
+				
+  <tr class="body">
+				    <td class="table-content ">23</td>
+				    <td class="table-content left">
+							<a href="/players/georgia-hall/98334/overview">
+								<div class="flag">
+	<img src="-/media/images/global/countries/eng.png?mw=114&amp;mh=78" alt="England">
+					</div>
+								Georgia Hall</a></td>
+	<td class="table-content ">11</td>
+    <td class="table-content ">1.27</td>
+    <td class="table-content ">13.93</td>
+    <td class="table-content ">3.89</td>
+    <td class="table-content ">10.04</td>
+
+
+  </tr>
+  
+<!--==================================Player End============================================-->   
+
+
+ 
+
+
+<!--==================================Player Start============================================-->				
+				
+  <tr class="body">
+				    <td class="table-content ">23</td>
+				    <td class="table-content left">
+							<a href="/players/megan-khang/98244/overview">
+								<div class="flag">
+										<img src="-/media/images/global/countries/usa.png?mw=114&amp;mh=78" alt="United States">
+								</div>
+								Megan Khang
+							</a>
+				    </td>
+	<td class="table-content ">7</td>
+    <td class="table-content ">1.27</td>
+    <td class="table-content ">8.88</td>
+    <td class="table-content ">6.89</td>
+    <td class="table-content ">1.99</td>
+
+
+  </tr>
+  
+<!--==================================Player End============================================-->   
+ 
+
+<!--==================================Player Start============================================-->				
+				
+  <tr class="body">
+		    <td class="table-content ">23</td>
+		    <td class="table-content left">
+					<a href="/players/ayaja-furue/100689/overview">
+						<div class="flag">
+								<img src="-/media/images/global/countries/jpn.png?mw=114&amp;mh=78" alt="Japan">
+						</div>
+						Ayaka Furue
+					</a>
+		    </td>
+	<td class="table-content ">7</td>
+    <td class="table-content ">1.27</td>
+    <td class="table-content ">8.87</td>
+    <td class="table-content ">7.04</td>
+    <td class="table-content ">1.83</td>
+
+
+  </tr>
+  
+<!--==================================Player End============================================-->  
+  
+  
+<!--==================================Player Start============================================-->				
+				
+  <tr class="body">
+				    <td class="table-content ">23</td>
+			       <td class="table-content left">
+			   			<a href="/players/in-gee-chun/98372/overview">
+			   				<div class="flag">
+			   						<img src="-/media/images/global/countries/kor.png?mw=114&amp;mh=78" alt="Republic of Korea">
+			   				</div>
+			   				In Gee Chun
+			   			</a>
+			       </td>
+	<td class="table-content ">4</td>
+    <td class="table-content ">1.27</td>
+    <td class="table-content ">8.88</td>
+    <td class="table-content ">20.01</td>
+    <td class="table-content ">-11.13</td>
+
+
+  </tr>
+  
+<!--==================================Player End============================================-->    
+  
+    
+  
+  
+ <!--==================================Player Start============================================-->				
+				
+   <tr class="body">
+ 	    <td class="table-content ">27</td>
+
+	       <td class="table-content left">
+	   			<a href="/players/maude-aimee-leblanc/98137/overview">
+	   				<div class="flag">
+	   						<img src="-/media/images/global/countries/can.png?mw=114&amp;mh=78" alt="Canada">
+	   				</div>
+	   				Maude-Aimee Leblanc
+	   			</a>
+	       </td>
+ 	<td class="table-content ">6</td>
+     <td class="table-content ">1.13</td>
+     <td class="table-content ">6.75</td>
+     <td class="table-content ">1.97</td>
+     <td class="table-content ">4.78</td>
+
+
+   </tr>
+  
+ <!--==================================Player End============================================--> 
+  
+   
+
+<!--==================================Player Start============================================-->				
+				
+  <tr class="body">
+		<td class="table-content ">28</td>
+	       <td class="table-content left">
+	   			<a href="/players/perrine-delacour/98313/overview">
+	   				<div class="flag">
+	   						<img src="-/media/images/global/countries/fra.png?mw=114&amp;mh=78" alt="France">
+	   				</div>
+	   				Perrine Delacour
+	   			</a>
+	       </td>
+	<td class="table-content ">7</td>
+    <td class="table-content ">1.12</td>
+    <td class="table-content ">7.87</td>
+    <td class="table-content ">2.48</td>
+    <td class="table-content ">5.39</td>
+
+
+  </tr>
+  
+<!--==================================Player End============================================-->  
+  
+  
+
+
+<!--==================================Player Start============================================-->				
+				
+  <tr class="body">
+			    <td class="table-content ">28</td>
+			    <td class="table-content left">
+						<a href="/players/atthaya-thitikul/99069/overview">
+							<div class="flag">
+									<img src="-/media/images/global/countries/tha.png?mw=114&amp;mh=78" alt="Thailand">
+							</div>
+							Atthaya Thitikul
+						</a>
+			    </td>
+	<td class="table-content ">7</td>
+    <td class="table-content ">1.12</td>
+    <td class="table-content ">7.81</td>
+    <td class="table-content ">1.89</td>
+    <td class="table-content ">5.92</td>
+
+
+  </tr>
+  
+<!--==================================Player End============================================-->   
+  
+  
+   
+
+<!--==================================Player Start============================================-->				
+				
+  <tr class="body">
+				       <td class="table-content ">30</td>
+				      <td class="table-content left">
+				  			<a href="/players/bronte-law/98279/overview">
+				  				<div class="flag">
+				  						<img src="-/media/images/global/countries/eng.png?mw=114&amp;mh=78" alt="England">
+				  				</div>
+				  				Bronte Law
+				  			</a>
+				      </td>
+	<td class="table-content ">7</td>
+    <td class="table-content ">0.98</td>
+    <td class="table-content ">6.88</td>
+    <td class="table-content ">4.85</td>
+    <td class="table-content ">2.03</td>
+
+
+  </tr>
+  
+<!--==================================Player End============================================-->    
+  
+
+
+ <!--==================================Player Start============================================-->				
+				
+   <tr class="body">
+ 		    <td class="table-content ">30</td>
+		    <td class="table-content left">
+					<a href="/players/yaeeun-hong/99980/overview">
+						<div class="flag">
+								<img src="-/media/images/global/countries/kor.png?mw=114&amp;mh=78" alt="Republic of Korea">
+						</div>
+						Yaeeun Hong
+					</a>
+		    </td>
+ 	<td class="table-content ">7</td>
+     <td class="table-content ">0.98</td>
+     <td class="table-content ">6.88</td>
+     <td class="table-content ">1.99</td>
+     <td class="table-content ">4.89</td>
+
+
+   </tr>
+  
+ <!--==================================Player End============================================-->
+
+
+ <!--==================================Player Start============================================-->				
+				
+   <tr class="body">
+ 		    <td class="table-content ">32</td>
+			<td class="table-content left">
+						<a href="/players/allisen-corpuz/98825/overview">
+							<div class="flag">
+									<img src="-/media/images/global/countries/usa.png?mw=114&amp;mh=78" alt="United States">
+							</div>
+							Allisen Corpuz
+						</a>
+			    </td>
+ 	<td class="table-content ">3</td>
+     <td class="table-content ">0.96</td>
+     <td class="table-content ">2.88</td>
+     <td class="table-content ">1.90</td>
+     <td class="table-content ">0.98</td>
+
+
+   </tr>
+  
+ <!--==================================Player End============================================-->
+
+
+
+
+<!--==================================Player Start============================================-->				
+				
+  <tr class="body">
+					       <td class="table-content ">33</td>
+					       <td class="table-content left">
+					   			<a href="/players/inbee-park/82866/overview">
+					   				<div class="flag">
+					   						<img src="-/media/images/global/countries/kor.png?mw=114&amp;mh=78" alt="Republic of Korea">
+					   				</div>
+					   				Inbee Park</a></td>
+	<td class="table-content ">9</td>
+    <td class="table-content ">0.94</td>
+    <td class="table-content ">8.49</td>
+    <td class="table-content ">3.56</td>
+    <td class="table-content ">4.93</td>
+
+
+  </tr>
+  
+<!--==================================Player End============================================-->  
+
+
+ <!--==================================Player Start============================================-->				
+				
+   <tr class="body">
+			      <td class="table-content ">34</td>
+			     <td class="table-content left">
+			 			<a href="/players/cheyenne-knight/98828/overview">
+			 				<div class="flag">
+			 						<img src="-/media/images/global/countries/usa.png?mw=114&amp;mh=78" alt="United States">
+			 				</div>
+			 				Cheyenne Knight
+			 			</a>
+			     </td>
+ 	<td class="table-content ">5</td>
+     <td class="table-content ">0.89</td>
+     <td class="table-content ">4.45</td>
+     <td class="table-content ">-0.50</td>
+     <td class="table-content ">4.56\\95</td>
+
+
+   </tr>
+  
+ <!--==================================Player End============================================--> 
+ 
+ 
+ 
+ 
+<!--==================================Player Start============================================-->				
+				
+  <tr class="body">
+			       <td class="table-content ">35</td>
+			      <td class="table-content left">
+			  			<a href="/players/jeongeun-lee6/99109/overview">
+			  				<div class="flag">
+			  						<img src="-/media/images/global/countries/kor.png?mw=114&amp;mh=78" alt="Republic of Korea">
+			  				</div>
+			  				Jeongeun Lee6
+			  			</a>
+			      </td>
+	<td class="table-content ">7</td>
+    <td class="table-content ">0.85</td>
+    <td class="table-content ">5.93</td>
+    <td class="table-content ">-1.33</td>
+    <td class="table-content ">7.26</td>
+
+
+  </tr>
+  
+<!--==================================Player End============================================--> 
+ 
+ 
+
+
+ <!--==================================Player Start============================================-->				
+				
+   <tr class="body">
+			      <td class="table-content ">36</td>
+			     <td class="table-content left">
+			 			<a href="/players/nanna-koerstz-madsen/98618/overview">
+			 				<div class="flag">
+			 						<img src="-/media/images/global/countries/den.jpg?mw=114&amp;mh=78" alt="Denmark">
+			 				</div>
+			 				Nanna Koerstz Madsen
+			 			</a>
+			     </td>
+ 	<td class="table-content ">5</td>
+     <td class="table-content ">0.84</td>
+     <td class="table-content ">4.19</td>
+     <td class="table-content ">-2.60</td>
+     <td class="table-content ">6.79</td>
+
+
+   </tr>
+  
+ <!--==================================Player End============================================--> 
+ 
+ 
+ 
+ 
+
+
+<!--==================================Player Start============================================-->				
+				
+  <tr class="body">
+				       <td class="table-content ">37</td>
+				      <td class="table-content left">
+				  			<a href="/players/jodi-ewart-shadoff/88290/overview">
+				  				<div class="flag">
+				  						<img src="-/media/images/global/countries/eng.png?mw=114&amp;mh=78" alt="England">
+				  				</div>
+				  				Jodi Ewart Shadoff
+				  			</a>
+				      </td>
+	<td class="table-content ">7</td>
+    <td class="table-content ">0.70</td>
+    <td class="table-content ">4.87</td>
+    <td class="table-content ">9.57</td>
+    <td class="table-content ">-4.70</td>
+
+
+  </tr>
+  
+<!--==================================Player End============================================-->   
+
+
+<!--==================================Player Start============================================-->				
+				
+  <tr class="body">
+		<td class="table-content ">37</td>
+		    <td class="table-content left">
+					<a href="/players/na-rin-an/100688/overview">
+						<div class="flag">
+								<img src="-/media/images/global/countries/kor.png?mw=114&amp;mh=78" alt="Republic of Korea">
+						</div>
+						Na Rin An
+					</a>
+		    </td>
+	<td class="table-content ">7</td>
+    <td class="table-content ">0.70</td>
+    <td class="table-content ">4.88</td>
+    <td class="table-content ">-0.65</td>
+    <td class="table-content ">5.33</td>
+
+
+  </tr>
+  
+<!--==================================Player End============================================-->  
+
+
+ 
+ <!--==================================Player Start============================================-->				
+				
+   <tr class="body">
+				      <td class="table-content ">37</td>
+				      <td class="table-content left">
+				  			<a href="/players/kelly-tan/53829/overview">
+				  				<div class="flag">
+				  						<img src="-/media/images/global/countries/mas.png?mw=114&amp;mh=78" alt="Malaysia">
+				  				</div>
+				  				Kelly Tan
+				  			</a>
+				      </td>
+ 	<td class="table-content ">7</td>
+     <td class="table-content ">0.70</td>
+     <td class="table-content ">4.88</td>
+     <td class="table-content ">4.74</td>
+     <td class="table-content ">0.14</td>
+
+
+   </tr>
+  
+ <!--==================================Player End============================================-->  
+
+
+ 
+
+ <!--==================================Player Start============================================-->				
+				
+   <tr class="body">
+ 		    <td class="table-content ">37</td>
+		    <td class="table-content left">
+					<a href="/players/jasmine-suwannapura/88543/overview">
+						<div class="flag">
+								<img src="-/media/images/global/countries/tha.png?mw=114&amp;mh=78" alt="Thailand">
+						</div>
+						Jasmine Suwannapura
+					</a>
+		    </td>
+ 	<td class="table-content ">7</td>
+     <td class="table-content ">0.70</td>
+     <td class="table-content ">4.88</td>
+     <td class="table-content ">6.92</td>
+     <td class="table-content ">-2.04</td>
+
+
+   </tr>
+  
+ <!--==================================Player End============================================--> 
+
+
+<!--==================================Player Start============================================-->				
+				
+  <tr class="body">
+				       <td class="table-content ">41</td>
+				       <td class="table-content left">
+				   			<a href="/players/madelene-sagstrom/98642/overview">
+				   				<div class="flag">
+				   						<img src="-/media/images/global/countries/swe.png?mw=114&amp;mh=78" alt="Sweden">
+				   				</div>
+				   				Madelene Sagstrom</a></td>
+	<td class="table-content ">11</td>
+    <td class="table-content ">0.63</td>
+    <td class="table-content ">6.93</td>
+    <td class="table-content ">-9.23</td>
+    <td class="table-content ">16.16</td>
+
+
+  </tr>
+  
+<!--==================================Player End============================================-->   
+  
+  
+<!--==================================Player Start============================================-->				
+				
+  <tr class="body">
+		<td class="table-content ">41</td>
+			<td class="table-content left">
+					<a href="/players/pajaree-anannarukarn/99068/overview">
+						   	<div class="flag">
+<img src="-/media/images/global/countries/tha.png?mw=114&amp;mh=78" alt="Thailand"></div>
+						 Pajaree Anannarukarn</a></td>
+	<td class="table-content ">11</td>
+    <td class="table-content ">0.63</td>
+    <td class="table-content ">6.93</td>
+    <td class="table-content ">7.15</td>
+    <td class="table-content ">-0.22</td>
+
+
+  </tr>
+  
+<!--==================================Player End============================================-->    
+
+
+
+<!--==================================Player Start============================================-->				
+				
+  <tr class="body">
+		<td class="table-content ">41</td>
+			<td class="table-content left">
+						<a href="/players/jennifer-chang/99503/overview">
+							<div class="flag">
+									<img src="-/media/images/global/countries/usa.png?mw=114&amp;mh=78" alt="United States">
+							</div>
+							Jennifer Chang</a></td>
+	<td class="table-content ">3</td>
+    <td class="table-content ">0.63</td>
+    <td class="table-content ">1.89</td>
+    <td class="table-content ">0.92</td>
+    <td class="table-content ">0.97</td>
+
+
+  </tr>
+  
+<!--==================================Player End============================================-->    
+  
+
+
+<!--==================================Player Start============================================-->				
+				
+  <tr class="body">
+		<td class="table-content ">41</td>
+			<td class="table-content left">
+						<a href="/players/isi-gabsa/98796/overview">
+							<div class="flag">
+									<img src="-/media/images/global/countries/ger.png?mw=114&amp;mh=78" alt="Germany">
+							</div>
+							Isi Gabsa</a></td>
+	<td class="table-content ">3</td>
+    <td class="table-content ">0.63</td>
+    <td class="table-content ">1.89</td>
+    <td class="table-content ">-0.50</td>
+    <td class="table-content ">2.39</td>
+
+
+  </tr>
+  
+<!--==================================Player End============================================-->    
+  
+
+
+ <!--==================================Player Start============================================-->				
+				
+   <tr class="body">
+				      <td class="table-content ">45</td>
+				      <td class="table-content left">
+				  			<a href="/players/nasa-hataoka/98830/overview">
+				  				<div class="flag">
+				  						<img src="-/media/images/global/countries/jpn.png?mw=114&amp;mh=78" alt="Japan">
+				  				</div>
+				  				Nasa Hataoka</a></td>
+ 	<td class="table-content ">9</td>
+     <td class="table-content ">0.58</td>
+     <td class="table-content ">5.24</td>
+     <td class="table-content ">-2.51</td>
+     <td class="table-content ">7.75</td>
+
+
+   </tr>
+  
+ <!--==================================Player End============================================-->  
+
+
+
+<!--==================================Player Start============================================-->				
+				
+  <tr class="body">
+				    <td class="table-content ">46</td>
+			      <td class="table-content left">
+			  			<a href="/players/pornanong-phatlum/88110/overview">
+			  				<div class="flag">
+			  						<img src="-/media/images/global/countries/tha.png?mw=114&amp;mh=78" alt="Thailand">
+			  				</div>
+			  				Pornanong Phatlum
+			  			</a>
+			      </td>
+	<td class="table-content ">7</td>
+    <td class="table-content ">0.55</td>
+    <td class="table-content ">3.88</td>
+    <td class="table-content ">1.99</td>
+    <td class="table-content ">1.89</td>
+
+
+  </tr>
+  
+<!--==================================Player End============================================-->  
+
+
+
+ <!--==================================Player Start============================================-->				
+				
+   <tr class="body">
+			      <td class="table-content ">47</td>
+			     <td class="table-content left">
+			 			<a href="/players/caroline-masson/98119/overview">
+			 				<div class="flag">
+			 						<img src="-/media/images/global/countries/ger.png?mw=114&amp;mh=78" alt="Germany">
+			 				</div>
+			 				Caroline Masson
+			 			</a>
+			     </td>
+ 	<td class="table-content ">5</td>
+     <td class="table-content ">0.49</td>
+     <td class="table-content ">2.45</td>
+     <td class="table-content ">-0.49</td>
+     <td class="table-content ">2.94</td>
+
+
+   </tr>
+  
+ <!--==================================Player End============================================--> 
+ 
+ 
+<!--==================================Player Start============================================-->				
+				
+  <tr class="body">
+		<td class="table-content ">48</td>
+				      <td class="table-content left">
+				  			<a href="/players/sophia-schubert/99133/overview">
+				  				<div class="flag">
+				  						<img src="-/media/images/global/countries/usa.png?mw=114&amp;mh=78" alt="United States">
+				  				</div>
+				  				Sophia Schubert
+				  			</a>
+				      </td>
+	<td class="table-content ">6</td>
+    <td class="table-content ">0.46</td>
+    <td class="table-content ">2.75</td>
+    <td class="table-content ">-2.19</td>
+    <td class="table-content ">4.94</td>
+
+
+  </tr>
+  
+<!--==================================Player End============================================-->   
+ 
+ 
+ 
+ <!--==================================Player Start============================================-->				
+				
+   <tr class="body">
+ 		    <td class="table-content ">49</td>
+ 		    <td class="table-content left">
+ 					<a href="/players/ryannotoole/88214/overview">
+ 						<div class="flag">
+ 								<img src="-/media/images/global/countries/usa.png?mw=114&amp;mh=78" alt="United States">
+ 						</div>
+ 						Ryann O'Toole</a></td>
+ 	<td class="table-content ">11</td>
+     <td class="table-content ">0.45</td>
+     <td class="table-content ">4.94</td>
+     <td class="table-content ">-0.88</td>
+     <td class="table-content ">5.82</td>
+
+
+   </tr>
+  
+ <!--==================================Player End============================================--> 
+ 
+ 
+
+ <!--==================================Player Start============================================-->				
+				
+   <tr class="body">
+				      <td class="table-content ">50</td>
+					  <td class="table-content left">
+					  			<a href="/players/linnea-johansson/98990/overview">
+					  				<div class="flag">
+					  						<img src="-/media/images/global/countries/swe.png?mw=114&amp;mh=78" alt="Sweden">
+					  				</div>
+					  				Linnea Johansson
+					  			</a>
+					      </td>
+ 	<td class="table-content ">6</td>
+     <td class="table-content ">0.44</td>
+     <td class="table-content ">2.62</td>
+     <td class="table-content ">-2.20</td>
+     <td class="table-content ">4.82</td>
+
+
+   </tr>
+  
+ <!--==================================Player End============================================-->   
+
+
+   
+<!--==================================Player Start============================================-->				
+				
+  <tr class="body">
+		    <td class="table-content ">50</td>
+		    <td class="table-content left">
+					<a href="/players/matilda-castren/99270/overview">
+						<div class="flag">
+	<img src="-/media/images/global/countries/fin.png?mw=114&amp;mh=78" alt="Finland">
+						</div>
+						Matilda Castren</a></td>
+	<td class="table-content ">6</td>
+    <td class="table-content ">0.44</td>
+    <td class="table-content ">2.62</td>
+    <td class="table-content ">9.96</td>
+    <td class="table-content ">-7.34</td>
+
+
+  </tr>
+  
+<!--==================================Player End============================================-->   
+
+
+
+<!--==================================Player Start============================================-->				
+				
+  <tr class="body">
+			    <td class="table-content ">52</td>
+			    <td class="table-content left">
+						<a href="/players/lilia-vu/98230/overview">
+							<div class="flag">
+									<img src="-/media/images/global/countries/usa.png?mw=114&amp;mh=78" alt="United States">
+							</div>
+							Lilia Vu
+						</a>
+			    </td>
+	<td class="table-content ">7</td>
+    <td class="table-content ">0.41</td>
+    <td class="table-content ">2.88</td>
+    <td class="table-content ">4.23</td>
+    <td class="table-content ">-1.35</td>
+
+
+  </tr>
+  
+<!--==================================Player End============================================-->    
+  
+
+<!--==================================Player Start============================================-->				
+				
+  <tr class="body">
+		    <td class="table-content ">53</td>
+			<td class="table-content left">
+						<a href="/players/su-oh/98192/overview">
+							<div class="flag">
+									<img src="-/media/images/global/countries/aus.gif?mw=114&amp;mh=78" alt="Australia">
+							</div>
+							Su Oh
+						</a>
+			    </td>
+	<td class="table-content ">6</td>
+    <td class="table-content ">0.31</td>
+    <td class="table-content ">1.83</td>
+    <td class="table-content ">-0.65</td>
+    <td class="table-content ">2.48</td>
+
+
+  </tr>
+  
+<!--==================================Player End============================================-->    
+
+
+
+ <!--==================================Player Start============================================-->				
+				
+   <tr class="body">
+		<td class="table-content ">54</td>
+					      <td class="table-content left">
+					  			<a href="/players/ally-ewing/98440/overview">
+					  				<div class="flag">
+					  						<img src="-/media/images/global/countries/usa.png?mw=114&amp;mh=78" alt="United States">
+					  				</div>
+					  				Ally Ewing</a></td>
+ 	 <td class="table-content ">10</td>
+     <td class="table-content ">0.28</td>
+     <td class="table-content ">2.81</td>
+     <td class="table-content ">5.47</td>
+     <td class="table-content ">-2.66</td>
+
+
+   </tr>
+  
+ <!--==================================Player End============================================-->  
+
+
+
+<!--==================================Player Start============================================-->				
+				
+  <tr class="body">
+		<td class="table-content ">55</td>
+	       <td class="table-content left">
+	   			<a href="/players/dana-finkelstein/98748/overview">
+	   				<div class="flag">
+	   						<img src="-/media/images/global/countries/usa.png?mw=114&amp;mh=78" alt="United States">
+	   				</div>
+	   				Dana Finkelstein
+	   			</a>
+	       </td>
+	<td class="table-content ">7</td>
+    <td class="table-content ">0.27</td>
+    <td class="table-content ">1.88</td>
+    <td class="table-content ">-5.63</td>
+    <td class="table-content ">7.51</td>
+
+
+  </tr>
+  
+<!--==================================Player End============================================-->     
+  
+  
+
+
+<!--==================================Player Start============================================-->				
+				
+  <tr class="body">
+			    <td class="table-content ">55</td>
+			    <td class="table-content left">
+						<a href="/players/a-lim-kim/99705/overview">
+							<div class="flag">
+									<img src="-/media/images/global/countries/kor.png?mw=114&amp;mh=78" alt="Republic of Korea">
+							</div>
+							A Lim Kim</a></td>
+	<td class="table-content ">11</td>
+    <td class="table-content ">0.27</td>
+    <td class="table-content ">2.93</td>
+    <td class="table-content ">1.90</td>
+    <td class="table-content ">1.03</td>
+
+
+  </tr>
+  
+<!--==================================Player End============================================-->    
+  
+  
+ 
+
+<!--==================================Player Start============================================-->				
+				
+  <tr class="body">
+				    <td class="table-content ">57</td>
+			      <td class="table-content left">
+			  			<a href="/players/carlota-ciganda/93254/overview">
+			  				<div class="flag">
+			  						<img src="-/media/images/global/countries/esp.png?mw=114&amp;mh=78" alt="Spain">
+			  				</div>
+			  				Carlota Ciganda
+			  			</a>
+			      </td>
+	<td class="table-content ">7</td>
+    <td class="table-content ">0.25</td>
+    <td class="table-content ">1.77</td>
+    <td class="table-content ">-2.57</td>
+    <td class="table-content ">4.34</td>
+
+
+  </tr>
+  
+<!--==================================Player End============================================-->  
+  
+  
+ <!--==================================Player Start============================================-->				
+				
+   <tr class="body">
+			      <td class="table-content ">58</td>
+			     <td class="table-content left">
+			 			<a href="/players/lauren-stephenson/99708/overview">
+			 				<div class="flag">
+			 						<img src="-/media/images/global/countries/usa.png?mw=114&amp;mh=78" alt="United States">
+			 				</div>
+			 				Lauren Stephenson
+			 			</a>
+			     </td>
+ 	<td class="table-content ">7</td>
+     <td class="table-content ">0.13</td>
+     <td class="table-content ">0.88</td>
+     <td class="table-content ">-0.29</td>
+     <td class="table-content ">1.17</td>
+
+
+   </tr>
+  
+ <!--==================================Player End============================================--> 
+
+
+
+  
+ <!--==================================Player Start============================================-->				
+				
+   <tr class="body">
+				      <td class="table-content ">59</td>
+				      <td class="table-content left">
+				  			<a href="/players/brittany-lincicome/80142/overview">
+				  				<div class="flag">
+				  						<img src="-/media/images/global/countries/usa.png?mw=114&amp;mh=78" alt="United States">
+				  				</div>
+				  				Brittany Lincicome
+				  			</a>
+				      </td>
+ 	<td class="table-content ">7</td>
+     <td class="table-content ">0.12</td>
+     <td class="table-content ">0.87</td>
+     <td class="table-content ">3.21</td>
+     <td class="table-content ">-2.34</td>
+
+
+   </tr>
+  
+ <!--==================================Player End============================================-->  
+
+
+
+
+ <!--==================================Player Start============================================-->				
+				
+   <tr class="body">
+				      <td class="table-content ">60</td>
+					  	<td class="table-content left">
+							<a href="/players/morgane-metraux/99095/overview">
+								<div class="flag">
+						<img src="-/media/images/global/countries/sui.jpg?mw=114&amp;mh=78" alt="Switzerland">
+				</div>
+				Morgane Metraux
+			</a>
+    </td>
+ 	<td class="table-content ">6</td>
+     <td class="table-content ">-0.04</td>
+     <td class="table-content ">-0.26</td>
+     <td class="table-content ">1.30</td>
+     <td class="table-content ">-1.56</td>
+
+
+   </tr>
+  
+ <!--==================================Player End============================================-->  
+
+
+<!--==================================Player Start============================================-->				
+				
+  <tr class="body">
+			       <td class="table-content ">61</td>
+			       <td class="table-content left">
+			   			<a href="/players/wichanee-meechai/98788/overview">
+			   				<div class="flag">
+			   						<img src="-/media/images/global/countries/tha.png?mw=114&amp;mh=78" alt="Thailand">
+			   				</div>
+			   				Wichanee Meechai
+			   			</a>
+			       </td>
+	<td class="table-content ">7</td>
+    <td class="table-content ">-0.16</td>
+    <td class="table-content ">-1.12</td>
+    <td class="table-content ">1.49</td>
+    <td class="table-content ">-2.61</td>
+
+
+  </tr>
+  
+<!--==================================Player End============================================-->   
+
+
+
+<!--==================================Player Start============================================-->				
+				
+  <tr class="body">
+			       <td class="table-content ">61</td>
+			     <td class="table-content left">
+			 			<a href="/players/cydney-clanton/88556/overview">
+			 				<div class="flag">
+			 						<img src="-/media/images/global/countries/usa.png?mw=114&amp;mh=78" alt="United States">
+			 				</div>
+			 				Cydney Clanton
+			 			</a>
+			     </td>
+	<td class="table-content ">7</td>
+    <td class="table-content ">-0.16</td>
+    <td class="table-content ">-1.11</td>
+    <td class="table-content ">4.69</td>
+    <td class="table-content ">-5.80</td>
+
+
+  </tr>
+  
+<!--==================================Player End============================================-->  
+
+
+
+ 
+ <!--==================================Player Start============================================-->				
+				
+   <tr class="body">
+ 		    <td class="table-content ">63</td>
+		    <td class="table-content left">
+					<a href="/players/jennifer-kupcho/98842/overview">
+						<div class="flag">
+								<img src="-/media/images/global/countries/usa.png?mw=114&amp;mh=78" alt="United States">
+						</div>
+						Jennifer Kupcho
+					</a>
+		    </td>
+ 	<td class="table-content ">6</td>
+     <td class="table-content ">-0.21</td>
+     <td class="table-content ">-1.24</td>
+     <td class="table-content ">-4.63</td>
+     <td class="table-content ">3.39</td>
+
+
+   </tr>
+  
+ <!--==================================Player End============================================-->
+
+
+ <!--==================================Player Start============================================-->				
+				
+   <tr class="body">
+				    <td class="table-content ">64</td>
+				    <td class="table-content left">
+							<a href="/players/anna-nordqvist/88109/overview">
+								<div class="flag">
+										<img src="-/media/images/global/countries/swe.png?mw=114&amp;mh=78" alt="Sweden">
+								</div>
+								Anna Nordqvist
+							</a>
+				    </td>
+ 	 <td class="table-content ">9</td>
+     <td class="table-content ">-0.25</td>
+     <td class="table-content ">-2.26</td>
+     <td class="table-content ">-0.88</td>
+     <td class="table-content ">-1.38</td>
+
+
+   </tr>
+  
+ <!--==================================Player End============================================-->   
+
+
+<!--==================================Player Start============================================-->				
+				
+  <tr class="body">
+			       <td class="table-content ">64</td>
+			      <td class="table-content left">
+			  			<a href="/players/emma-talley/98096/overview">
+			  				<div class="flag">
+			  						<img src="-/media/images/global/countries/usa.png?mw=114&amp;mh=78" alt="United States">
+			  				</div>
+			  				Emma Talley
+			  			</a>
+			      </td>
+	<td class="table-content ">4</td>
+    <td class="table-content ">-0.25</td>
+    <td class="table-content ">-1.01</td>
+    <td class="table-content ">-0.30</td>
+    <td class="table-content ">-0.71</td>
+
+
+  </tr>
+  
+<!--==================================Player End============================================-->   
+  
+  
+<!--==================================Player Start============================================-->				
+				
+  <tr class="body">
+			       <td class="table-content ">64</td>
+			      <td class="table-content left">
+			  			<a href="/players/karrie-webb/82313/overview">
+			  				<div class="flag">
+			  						<img src="-/media/images/global/countries/aus.gif?mw=114&amp;mh=78" alt="Australia">
+			  				</div>
+			  				Karrie Webb
+			  			</a>
+			      </td>
+	<td class="table-content ">4</td>
+    <td class="table-content ">-0.25</td>
+    <td class="table-content ">-1.00</td>
+    <td class="table-content ">-2.43</td>
+    <td class="table-content ">1.43</td>
+
+
+  </tr>
+  
+<!--==================================Player End============================================-->    
+  
+  
+  
+ <!--==================================Player Start============================================-->				
+				
+   <tr class="body">
+		    <td class="table-content ">4</td>
+		    <td class="table-content left">
+					<a href="/players/marissa-steen/88647/overview">
+						<div class="flag">
+								<img src="-/media/images/global/countries/usa.png?mw=114&amp;mh=78" alt="United States">
+						</div>
+						Marissa Steen
+					</a>
+		    </td>
+ 	 <td class="table-content ">4</td>
+     <td class="table-content ">-0.27</td>
+     <td class="table-content ">-1.06</td>
+     <td class="table-content ">3.85</td>
+     <td class="table-content ">-4.91</td>
+
+
+   </tr>
+  
+ <!--==================================Player End============================================-->  
+  
+
+<!--==================================Player Start============================================-->				
+				
+  <tr class="body">
+			       <td class="table-content ">68</td>
+			       <td class="table-content left">
+			   			<a href="/players/moriya-jutanugarn/98001/overview">
+			   				<div class="flag">
+			   						<img src="-/media/images/global/countries/tha.png?mw=114&amp;mh=78" alt="Thailand">
+			   				</div>
+			   				Moriya Jutanugarn</a></td>
+	<td class="table-content ">9</td>
+    <td class="table-content ">-0.28</td>
+    <td class="table-content ">-2.50</td>
+    <td class="table-content ">0.15</td>
+    <td class="table-content ">-2.65</td>
+
+
+  </tr>
+  
+<!--==================================Player End============================================-->     
+  
+  
+ <!--==================================Player Start============================================-->				
+				
+   <tr class="body">
+			      <td class="table-content ">69</td>
+			     <td class="table-content left">
+			 			<a href="/players/ruixin-liu/88817/overview">
+			 				<div class="flag">
+			 						<img src="-/media/images/global/countries/chn.png?mw=114&amp;mh=78" alt="China">
+			 				</div>
+			 				Ruixin Liu
+			 			</a>
+			     </td>
+ 	<td class="table-content ">5</td>
+     <td class="table-content ">-0.31</td>
+     <td class="table-content ">-1.55</td>
+     <td class="table-content ">2.01</td>
+     <td class="table-content ">-3.56</td>
+
+
+   </tr>
+  
+ <!--==================================Player End============================================-->   
+  
+  
+ <!--==================================Player Start============================================-->				
+				
+   <tr class="body">
+			      <td class="table-content ">70</td>
+				 <td class="table-content left">
+				 			<a href="/players/gemma-dryburgh/98776/overview">
+				 				<div class="flag">
+				 						<img src="-/media/images/global/countries/sco.png?mw=114&amp;mh=78" alt="Scotland">
+				 				</div>
+				 				Gemma Dryburgh
+				 			</a>
+				     </td>
+ 	<td class="table-content ">3</td>
+     <td class="table-content ">-0.37</td>
+     <td class="table-content ">-1.11</td>
+     <td class="table-content ">2.54</td>
+     <td class="table-content ">-3.65</td>
+
+
+   </tr>
+  
+ <!--==================================Player End============================================-->   
+ 
+ 
+<!--==================================Player Start============================================-->				
+				
+  <tr class="body">
+			       <td class="table-content ">71</td>
+			      <td class="table-content left">
+			  			<a href="/players/albane-valenzuela/98636/overview">
+			  				<div class="flag">
+			  						<img src="-/media/images/global/countries/sui.jpg?mw=114&amp;mh=78" alt="Switzerland">
+			  				</div>
+			  				Albane Valenzuela
+			  			</a>
+			      </td>
+	<td class="table-content ">6</td>
+    <td class="table-content ">-0.38</td>
+    <td class="table-content ">-2.25</td>
+    <td class="table-content ">4.05</td>
+    <td class="table-content ">-6.30</td>
+
+
+  </tr>
+  
+<!--==================================Player End============================================-->     
+  
+  
+
+ <!--==================================Player Start============================================-->				
+				
+   <tr class="body">
+		    <td class="table-content ">72</td>
+		    <td class="table-content left">
+					<a href="/players/bianca-pagdanganan/99505/overview">
+						<div class="flag">
+								<img src="-/media/images/global/countries/phi.png?mw=114&amp;mh=78" alt="Philippines">
+						</div>
+						Bianca Pagdanganan
+					</a>
+		    </td>
+ 	 <td class="table-content ">5</td>
+     <td class="table-content ">-0.51</td>
+     <td class="table-content ">-2.55</td>
+     <td class="table-content ">-1.18</td>
+     <td class="table-content ">-1.37</td>
+
+
+   </tr>
+  
+ <!--==================================Player End============================================-->    
+   
+
+
+
+ <!--==================================Player Start============================================-->				
+				
+   <tr class="body">
+		    <td class="table-content ">72</td>
+		    <td class="table-content left">
+					<a href="/players/paula-reto/88128/overview">
+						<div class="flag">
+								<img src="-/media/images/global/countries/rsa.png?mw=114&amp;mh=78" alt="South Africa">
+						</div>
+						Paula Reto
+					</a>
+		    </td>
+ 	 <td class="table-content ">5</td>
+     <td class="table-content ">-0.51</td>
+     <td class="table-content ">-2.54</td>
+     <td class="table-content ">0.62</td>
+     <td class="table-content ">-3.16</td>
+
+
+   </tr>
+  
+ <!--==================================Player End============================================-->
+ 
+ 
+ 
+ <!--==================================Player Start============================================-->				
+				
+   <tr class="body">
+				<td class="table-content ">72</td>
+					       <td class="table-content left">
+					   			<a href="/players/yealimi-noh/99643/overview">
+					   				<div class="flag">
+					   						<img src="-/media/images/global/countries/usa.png?mw=114&amp;mh=78" alt="United States">
+					   				</div>
+					   				Yealimi Noh
+					   			</a>
+					       </td>
+ 	 <td class="table-content ">5</td>
+     <td class="table-content ">-0.51</td>
+     <td class="table-content ">-2.56</td>
+     <td class="table-content ">0.28</td>
+     <td class="table-content ">-2.84</td>
+
+
+   </tr>
+  
+ <!--==================================Player End============================================-->
+ 
+ 
+ 
+<!--==================================Player Start============================================-->				
+				
+  <tr class="body">
+			       <td class="table-content ">75</td>
+			      <td class="table-content left">
+			  			<a href="/players/stephanie-meadow/88947/overview">
+			  				<div class="flag">
+			  						<img src="-/media/images/global/countries/nir.png?mw=114&amp;mh=78" alt="Northern Ireland">
+			  				</div>
+			  				Stephanie Meadow
+			  			</a>
+			      </td>
+	<td class="table-content ">6</td>
+    <td class="table-content ">-0.54</td>
+    <td class="table-content ">-3.24</td>
+    <td class="table-content ">-4.67</td>
+    <td class="table-content ">1.43</td>
+
+
+  </tr>
+  
+<!--==================================Player End============================================-->     
+ 
+ 
+ 
+ <!--==================================Player Start============================================-->				
+				
+   <tr class="body">
+ 			    <td class="table-content ">75</td>
+ 			    <td class="table-content left">
+ 						<a href="/players/jeong-eun-lee/93275/overview">
+ 							<div class="flag">
+ 									<img src="-/media/images/global/countries/kor.png?mw=114&amp;mh=78" alt="Republic of Korea">
+ 							</div>
+ 							Jeongeun Lee
+ 						</a>
+ 			    </td>
+ 	<td class="table-content ">6</td>
+     <td class="table-content ">-0.54</td>
+     <td class="table-content ">-3.24</td>
+     <td class="table-content ">3.37</td>
+     <td class="table-content ">-6.61</td>
+
+
+   </tr>
+  
+ <!--==================================Player End============================================-->
+ 
+ 
+ <!--==================================Player Start============================================-->				
+				
+   <tr class="body">
+			      <td class="table-content ">77</td>
+			     <td class="table-content left">
+			 			<a href="/players/amy-olson/98084/overview">
+			 				<div class="flag">
+			 						<img src="-/media/images/global/countries/usa.png?mw=114&amp;mh=78" alt="United States">
+			 				</div>
+			 				Amy Olson
+			 			</a>
+			     </td>
+ 	<td class="table-content ">6</td>
+     <td class="table-content ">-0.57</td>
+     <td class="table-content ">-3.39</td>
+     <td class="table-content ">-5.64</td>
+     <td class="table-content ">2.25</td>
+
+
+   </tr>
+  
+ <!--==================================Player End============================================--> 
+ 
+ 
+
+ <!--==================================Player Start============================================-->				
+				
+   <tr class="body">
+			      <td class="table-content ">78</td>
+				 <td class="table-content left">
+				 			<a href="/players/andrea-lee/98222/overview">
+				 				<div class="flag">
+				 						<img src="-/media/images/global/countries/usa.png?mw=114&amp;mh=78" alt="United States">
+				 				</div>
+				 				Andrea Lee
+				 			</a>
+				     </td>
+ 	<td class="table-content ">2</td>
+     <td class="table-content ">-0.62</td>
+     <td class="table-content ">-1.23</td>
+     <td class="table-content ">-3.01</td>
+     <td class="table-content ">1.78</td>
+
+
+   </tr>
+  
+ <!--==================================Player End============================================--> 
+ 
+ 
+ <!--==================================Player Start============================================-->				
+				
+   <tr class="body">
+				<td class="table-content ">79</td>
+						    <td class="table-content left">
+									<a href="/players/janie-jackson/98159/overview">
+										<div class="flag">
+												<img src="-/media/images/global/countries/usa.png?mw=114&amp;mh=78" alt="United States">
+										</div>
+										Janie Jackson
+									</a>
+						    </td>
+ 	 <td class="table-content ">4</td>
+     <td class="table-content ">-0.65</td>
+     <td class="table-content ">-2.60</td>
+     <td class="table-content ">0.60</td>
+     <td class="table-content ">-3.20</td>
+
+
+   </tr>
+  
+ <!--==================================Player End============================================--> 
+ 
+ 
+ <!--==================================Player Start============================================-->				
+				
+   <tr class="body">
+			      <td class="table-content ">80</td>
+			      <td class="table-content left">
+			  			<a href="/players/fatima-fernandez-cano/99205/overview">
+			  				<div class="flag">
+			  						<img src="-/media/images/global/countries/esp.png?mw=114&amp;mh=78" alt="Spain">
+			  				</div>
+			  				Fatima Fernandez Cano
+			  			</a>
+			      </td>
+ 	<td class="table-content ">5</td>
+     <td class="table-content ">-0.71</td>
+     <td class="table-content ">-3.55</td>
+     <td class="table-content ">1.00</td>
+     <td class="table-content ">-4.55</td>
+
+
+   </tr>
+  
+ <!--==================================Player End============================================--> 
+ 
+ 
+ <!--==================================Player Start============================================-->				
+				
+   <tr class="body">
+				<td class="table-content ">80</td>
+						    <td class="table-content left">
+									<a href="/players/alison-lee/98223/overview">
+										<div class="flag">
+												<img src="-/media/images/global/countries/usa.png?mw=114&amp;mh=78" alt="United States">
+										</div>
+										Alison Lee
+									</a>
+						    </td>
+ 	 <td class="table-content ">5</td>
+     <td class="table-content ">-0.71</td>
+     <td class="table-content ">-3.55</td>
+     <td class="table-content ">-6.51</td>
+     <td class="table-content ">2.96</td>
+
+
+   </tr>
+  
+ <!--==================================Player End============================================--> 
+ 
+
+ <!--==================================Player Start============================================-->				
+				
+   <tr class="body">
+			      <td class="table-content ">82</td>
+			      <td class="table-content left">
+			  			<a href="/players/elizabeth-szokol/98919/overview">
+			  				<div class="flag">
+			  						<img src="-/media/images/global/countries/usa.png?mw=114&amp;mh=78" alt="United States">
+			  				</div>
+			  				Elizabeth Szokol
+			  			</a>
+			      </td>
+ 	<td class="table-content ">2</td>
+     <td class="table-content ">-0.72</td>
+     <td class="table-content ">-1.44</td>
+     <td class="table-content ">-0.02.48</td>
+     <td class="table-content ">-1.42</td>
+
+
+   </tr>
+  
+ <!--==================================Player End============================================-->   
+ 
+ 
+
+ <!--==================================Player Start============================================-->				
+				
+   <tr class="body">
+				      <td class="table-content ">83</td>
+				      <td class="table-content left">
+				  			<a href="/players/rachel-rohanna/93499/overview">
+				  				<div class="flag">
+				  						<img src="-/media/images/global/countries/usa.png?mw=114&amp;mh=78" alt="United States">
+				  				</div>
+				  				Rachel Rohanna
+				  			</a>
+				      </td>
+ 	<td class="table-content ">7</td>
+     <td class="table-content ">-0.73</td>
+     <td class="table-content ">-5.11</td>
+     <td class="table-content ">-3.96</td>
+     <td class="table-content ">-1.15</td>
+
+
+   </tr>
+  
+ <!--==================================Player End============================================--> 
+ 
+ <!--==================================Player Start============================================-->				
+				
+   <tr class="body">
+				    <td class="table-content ">83</td>
+				    <td class="table-content left">
+							<a href="/players/lindsey-weaver/98933/overview">
+								<div class="flag">
+										<img src="-/media/images/global/countries/usa.png?mw=114&amp;mh=78" alt="United States">
+								</div>
+								Lindsey Weaver-Wright
+							</a>
+				    </td>
+ 	 <td class="table-content ">7</td>
+     <td class="table-content ">-0.73</td>
+     <td class="table-content ">-5.12</td>
+     <td class="table-content ">-11.03</td>
+     <td class="table-content ">5.91</td>
+
+
+   </tr>
+  
+ <!--==================================Player End============================================--> 
+ 
+ 
+
+ <!--==================================Player Start============================================-->				
+				
+   <tr class="body">
+			      <td class="table-content ">85</td>
+			     <td class="table-content left">
+			 			<a href="/players/dewi-weber/99632/overview">
+			 				<div class="flag">
+			 						<img src="-/media/images/global/countries/ned.png?mw=114&amp;mh=78" alt="Netherlands">
+			 				</div>
+			 				Dewi Weber
+			 			</a>
+			     </td>
+ 	<td class="table-content ">6</td>
+     <td class="table-content ">-0.87</td>
+     <td class="table-content ">-5.24</td>
+     <td class="table-content ">1.67</td>
+     <td class="table-content ">-6.91</td>
+
+
+   </tr>
+  
+ <!--==================================Player End============================================-->  
+ 
+ 
+ <!--==================================Player Start============================================-->				
+				
+   <tr class="body">
+			      <td class="table-content ">86</td>
+			     <td class="table-content left">
+			 			<a href="/players/ana-belac/100248/overview">
+			 				<div class="flag">
+			 						<img src="-/media/images/global/countries/slo.jpg?mw=114&amp;mh=78" alt="Slovenia">
+			 				</div>
+			 				Ana Belac
+			 			</a>
+			     </td>
+ 	<td class="table-content ">4</td>
+     <td class="table-content ">-0.92</td>
+     <td class="table-content ">-3.67</td>
+     <td class="table-content ">-1.17</td>
+     <td class="table-content ">-2.50</td>
+
+
+   </tr>
+  
+ <!--==================================Player End============================================-->  
+ 
+ 
+ 
+
+ <!--==================================Player Start============================================-->				
+				
+   <tr class="body">
+			      <td class="table-content ">87</td>
+			      <td class="table-content left">
+			  			<a href="/players/sophia-popov/98113/overview">
+			  				<div class="flag">
+			  						<img src="-/media/images/global/countries/ger.png?mw=114&amp;mh=78" alt="Germany">
+			  				</div>
+			  				Sophia Popov</a></td>
+ 	<td class="table-content ">8</td>
+     <td class="table-content ">-1.08</td>
+     <td class="table-content ">-8.62</td>
+     <td class="table-content ">1.49</td>
+     <td class="table-content ">-10.11</td>
+
+
+   </tr>
+  
+ <!--==================================Player End============================================-->  
+ 
+
+ <!--==================================Player Start============================================-->				
+				
+   <tr class="body">
+			      <td class="table-content ">88</td>
+				  <td class="table-content left">
+				  			<a href="/players/alana-uriell/98867/overview">
+				  				<div class="flag">
+				  						<img src="-/media/images/global/countries/usa.png?mw=114&amp;mh=78" alt="United States">
+				  				</div>
+				  				Alana Uriell
+				  			</a>
+				      </td>
+ 	<td class="table-content ">2</td>
+     <td class="table-content ">-1.11</td>
+     <td class="table-content ">-2.22</td>
+     <td class="table-content ">0.79</td>
+     <td class="table-content ">-3.01</td>
+
+
+   </tr>
+  
+ <!--==================================Player End============================================-->   
+ 
+   
+ <!--==================================Player Start============================================-->				
+				
+   <tr class="body">
+			      <td class="table-content ">89</td>
+				  <td class="table-content left">
+				  			<a href="/players/agathe-laisne/98643/overview">
+				  				<div class="flag">
+				  						<img src="-/media/images/global/countries/fra.png?mw=114&amp;mh=78" alt="France">
+				  				</div>
+				  				Agathe Laisne
+				  			</a>
+				      </td>
+ 	<td class="table-content ">2</td>
+     <td class="table-content ">-1.12</td>
+     <td class="table-content ">-2.23</td>
+     <td class="table-content ">-1.60</td>
+     <td class="table-content ">-0.63</td>
+
+
+   </tr>
+  
+ <!--==================================Player End============================================-->    
+  
+
+ <!--==================================Player Start============================================-->				
+				
+   <tr class="body">
+			      <td class="table-content ">89</td>
+				  <td class="table-content left">
+				  			<a href="/players/frida-kinhult/99635/overview">
+				  				<div class="flag">
+				  						<img src="-/media/images/global/countries/swe.png?mw=114&amp;mh=78" alt="Sweden">
+				  				</div>
+				  				Frida Kinhult
+				  			</a>
+				      </td>
+ 	<td class="table-content ">2</td>
+     <td class="table-content ">-1.12</td>
+     <td class="table-content ">-2.23</td>
+     <td class="table-content ">0.49</td>
+     <td class="table-content ">-2.72</td>
+
+
+   </tr>
+  
+ <!--==================================Player End============================================-->    
+
+
+ <!--==================================Player Start============================================-->				
+				
+   <tr class="body">
+			      <td class="table-content ">89</td>
+				  <td class="table-content left">
+				  			<a href="/players/sarah-kemp/82886/overview">
+				  				<div class="flag">
+				  						<img src="-/media/images/global/countries/aus.gif?mw=114&amp;mh=78" alt="Australia">
+				  				</div>
+				  				Sarah Kemp
+				  			</a>
+				      </td>
+ 	<td class="table-content ">2</td>
+     <td class="table-content ">-1.12</td>
+     <td class="table-content ">-2.23</td>
+     <td class="table-content ">-3.60</td>
+     <td class="table-content ">1.37</td>
+
+
+   </tr>
+  
+ <!--==================================Player End============================================-->    
+
+
+ <!--==================================Player Start============================================-->				
+				
+   <tr class="body">
+			    <td class="table-content ">92</td>
+			    <td class="table-content left">
+						<a href="/players/angela-stanford/81901/overview">
+							<div class="flag">
+									<img src="-/media/images/global/countries/usa.png?mw=114&amp;mh=78" alt="United States">
+							</div>
+							Angela Stanford</a></td>
+ 	 <td class="table-content ">9</td>
+     <td class="table-content ">-1.17</td>
+     <td class="table-content ">-10.50</td>
+     <td class="table-content ">-15.42</td>
+     <td class="table-content ">4.92</td>
+
+
+   </tr>
+  
+ <!--==================================Player End============================================--> 
+
+
+ <!--==================================Player Start============================================-->				
+				
+   <tr class="body">
+		    <td class="table-content ">93</td>
+		    <td class="table-content left">
+					<a href="/players/ariya-jutanugarn/93475/overview">
+						<div class="flag">
+								<img src="-/media/images/global/countries/tha.png?mw=114&amp;mh=78" alt="Thailand">
+						</div>
+						Ariya Jutanugarn</a></td>
+ 	 <td class="table-content ">8</td>
+     <td class="table-content ">-1.19</td>
+     <td class="table-content ">-9.54</td>
+     <td class="table-content ">-9.72</td>
+     <td class="table-content ">0.18</td>
+
+
+   </tr>
+  
+ <!--==================================Player End============================================-->  
+
+<!--==================================Player Start============================================-->				
+				
+  <tr class="body">
+			       <td class="table-content ">94</td>
+			      <td class="table-content left">
+			  			<a href="/players/christina-kim/81112/overview">
+			  				<div class="flag">
+			  						<img src="-/media/images/global/countries/usa.png?mw=114&amp;mh=78" alt="United States">
+			  				</div>
+			  				Christina Kim
+			  			</a>
+			      </td>
+	<td class="table-content ">6</td>
+    <td class="table-content ">-1.21</td>
+    <td class="table-content ">-7.25</td>
+    <td class="table-content ">-2.78</td>
+    <td class="table-content ">-4.47</td>
+
+
+  </tr>
+  
+<!--==================================Player End============================================-->    
+ 
+ 
+ <!--==================================Player Start============================================-->				
+				
+   <tr class="body">
+				    <td class="table-content ">95</td>
+				    <td class="table-content left">
+							<a href="/players/mel-reid/93451/overview">
+								<div class="flag">
+										<img src="-/media/images/global/countries/eng.png?mw=114&amp;mh=78" alt="England">
+								</div>
+								Mel Reid</a></td>
+ 	 <td class="table-content ">10</td>
+     <td class="table-content ">-1.32</td>
+     <td class="table-content ">-13.20</td>
+     <td class="table-content ">-2.25</td>
+     <td class="table-content ">-10.95</td>
+
+
+   </tr>
+  
+ <!--==================================Player End============================================--> 
+ 
+
+ <!--==================================Player Start============================================-->				
+				
+   <tr class="body">
+			      <td class="table-content ">96</td>
+			     <td class="table-content left">
+			 			<a href="/players/casey-danielson/99092/overview">
+			 				<div class="flag">
+			 						<img src="-/media/images/global/countries/usa.png?mw=114&amp;mh=78" alt="United States">
+			 				</div>
+			 				Casey Danielson
+			 			</a>
+			     </td>
+ 	<td class="table-content ">4</td>
+     <td class="table-content ">-1.42</td>
+     <td class="table-content ">-5.67</td>
+     <td class="table-content ">1.27</td>
+     <td class="table-content ">-6.94</td>
+
+
+   </tr>
+  
+ <!--==================================Player End============================================-->  
+ 
+ 
+ <!--==================================Player Start============================================-->				
+				
+   <tr class="body">
+				<td class="table-content ">97</td>
+					       <td class="table-content left">
+					   			<a href="/players/pernilla-lindberg/88213/overview">
+					   				<div class="flag">
+					   						<img src="-/media/images/global/countries/swe.png?mw=114&amp;mh=78" alt="Sweden">
+					   				</div>
+					   				Pernilla Lindberg
+					   			</a>
+					       </td>
+ 	 <td class="table-content ">5</td>
+     <td class="table-content ">-1.51</td>
+     <td class="table-content ">-7.55</td>
+     <td class="table-content ">-8.80</td>
+     <td class="table-content ">1.25</td>
+
+
+   </tr>
+  
+ <!--==================================Player End============================================-->    
+ 
+ 
+ <!--==================================Player Start============================================-->				
+				
+   <tr class="body">
+				<td class="table-content ">97</td>
+					       <td class="table-content left">
+					   			<a href="/players/giulia-molinaro/98335/overview">
+					   				<div class="flag">
+					   						<img src="-/media/images/global/countries/ita.png?mw=114&amp;mh=78" alt="Italy">
+					   				</div>
+					   				Giulia Molinaro
+					   			</a>
+					       </td>
+ 	 <td class="table-content ">5</td>
+     <td class="table-content ">-1.51</td>
+     <td class="table-content ">-7.456</td>
+     <td class="table-content ">-3.63</td>
+     <td class="table-content ">-3.93</td>
+
+
+   </tr>
+  
+ <!--==================================Player End============================================--> 
+ 
+ 
+ <!--==================================Player Start============================================-->				
+				
+   <tr class="body">
+				<td class="table-content ">97</td>
+					       <td class="table-content left">
+					   			<a href="/players/annie-park/98239/overview">
+					   				<div class="flag">
+					   						<img src="-/media/images/global/countries/usa.png?mw=114&amp;mh=78" alt="United States">
+					   				</div>
+					   				Annie Park
+					   			</a>
+					       </td>
+ 	 <td class="table-content ">5</td>
+     <td class="table-content ">-1.51</td>
+     <td class="table-content ">-7.54</td>
+     <td class="table-content ">-2.42</td>
+     <td class="table-content ">-5.12</td>
+
+
+   </tr>
+  
+ <!--==================================Player End============================================--> 
+ 
+ 
+ <!--==================================Player Start============================================-->				
+				
+   <tr class="body">
+				<td class="table-content ">100</td>
+					       <td class="table-content left">
+					   			<a href="/players/katherine-perry/98015/overview">
+					   				<div class="flag">
+					   						<img src="-/media/images/global/countries/usa.png?mw=114&amp;mh=78" alt="United States">
+					   				</div>
+					   				Katherine Perry-Hamski
+					   			</a>
+					       </td>
+ 	 <td class="table-content ">4</td>
+     <td class="table-content ">-1.52</td>
+     <td class="table-content ">-6.07</td>
+     <td class="table-content ">-5.30</td>
+     <td class="table-content ">-0.77</td>
+
+
+   </tr>
+  
+ <!--==================================Player End============================================--> 
+ 
+ 
+  
+<!--==================================Player Start============================================-->				
+				
+  <tr class="body">
+			       <td class="table-content ">101</td>
+			     <td class="table-content left">
+			 			<a href="/players/amanda-doherty/100217/overview">
+			 				<div class="flag">
+			 						<img src="-/media/images/global/countries/usa.png?mw=114&amp;mh=78" alt="United States">
+			 				</div>
+			 				Amanda Doherty
+			 			</a>
+			     </td>
+	<td class="table-content ">6</td>
+    <td class="table-content ">-1.54</td>
+    <td class="table-content ">-9.25</td>
+    <td class="table-content ">-5.77</td>
+    <td class="table-content ">-3.48</td>
+
+
+  </tr>
+  
+<!--==================================Player End============================================-->   
+  
+  
+ <!--==================================Player Start============================================-->				
+				
+   <tr class="body">
+				<td class="table-content ">102</td>
+						    <td class="table-content left">
+									<a href="/players/cristie-kerr/81106/overview">
+										<div class="flag">
+												<img src="-/media/images/global/countries/usa.png?mw=114&amp;mh=78" alt="United States">
+										</div>
+										Cristie Kerr
+									</a>
+						    </td>
+ 	 <td class="table-content ">4</td>
+     <td class="table-content ">-1.67</td>
+     <td class="table-content ">-6.68</td>
+     <td class="table-content ">-9.30</td>
+     <td class="table-content ">2.62</td>
+
+
+   </tr>
+  
+ <!--==================================Player End============================================--> 
+ 
+ 
+
+ <!--==================================Player Start============================================-->				
+				
+   <tr class="body">
+		    <td class="table-content ">102</td>
+		    <td class="table-content left">
+					<a href="/players/ashleigh-buhai/82896/overview">
+						<div class="flag">
+								<img src="-/media/images/global/countries/rsa.png?mw=114&amp;mh=78" alt="South Africa">
+						</div>
+						Ashleigh Buhai
+					</a>
+		    </td>
+ 	 <td class="table-content ">4</td>
+     <td class="table-content ">-1.67</td>
+     <td class="table-content ">-6.67</td>
+     <td class="table-content ">-1.69</td>
+     <td class="table-content ">-4.98</td>
+
+
+   </tr>
+  
+ <!--==================================Player End============================================-->
+   
+  
+ <!--==================================Player Start============================================-->				
+				
+   <tr class="body">
+		    <td class="table-content ">104</td>
+		    <td class="table-content left">
+					<a href="/players/muni-he/98620/overview">
+						<div class="flag">
+								<img src="-/media/images/global/countries/chn.png?mw=114&amp;mh=78" alt="China">
+						</div>
+						Muni He
+					</a>
+		    </td>
+ 	 <td class="table-content ">5</td>
+     <td class="table-content ">-1.75</td>
+     <td class="table-content ">-8.76</td>
+     <td class="table-content ">-4.50</td>
+     <td class="table-content ">-4.26</td>
+
+
+   </tr>
+  
+ <!--==================================Player End============================================-->  
+  
+
+ <!--==================================Player Start============================================-->				
+				
+   <tr class="body">
+				<td class="table-content ">105</td>
+						    <td class="table-content left">
+									<a href="/players/hee-young-park/82892/overview">
+										<div class="flag">
+												<img src="-/media/images/global/countries/kor.png?mw=114&amp;mh=78" alt="Republic of Korea">
+										</div>
+										Hee Young Park</a></td>
+ 	 <td class="table-content ">9</td>
+     <td class="table-content ">-1.83</td>
+     <td class="table-content ">-16.46</td>
+     <td class="table-content ">-16.36</td>
+     <td class="table-content ">-0.10</td>
+
+
+   </tr>
+  
+ <!--==================================Player End============================================-->    
+  
+
+
+ <!--==================================Player Start============================================-->				
+				
+   <tr class="body">
+		    <td class="table-content ">106</td>
+				    <td class="table-content left">
+							<a href="/players/mina-harigae/88260/overview">
+								<div class="flag">
+										<img src="-/media/images/global/countries/usa.png?mw=114&amp;mh=78" alt="United States">
+								</div>
+								Mina Harigae
+							</a>
+				    </td>
+ 	 <td class="table-content ">4</td>
+     <td class="table-content ">-1.92</td>
+     <td class="table-content ">-7.67</td>
+     <td class="table-content ">-3.49</td>
+     <td class="table-content ">-4.18</td>
+
+
+   </tr>
+  
+ <!--==================================Player End============================================-->  
+ 
+ 
+ <!--==================================Player Start============================================-->				
+				
+   <tr class="body">
+				<td class="table-content ">106</td>
+						    <td class="table-content left">
+									<a href="/players/lauren-coughlin/88815/overview">
+										<div class="flag">
+												<img src="-/media/images/global/countries/usa.png?mw=114&amp;mh=78" alt="United States">
+										</div>
+										Lauren Coughlin
+									</a>
+						    </td>
+ 	 <td class="table-content ">4</td>
+     <td class="table-content ">-1.92</td>
+     <td class="table-content ">-7.67</td>
+     <td class="table-content ">-3.06</td>
+     <td class="table-content ">-4.61</td>
+
+
+   </tr>
+  
+ <!--==================================Player End============================================--> 
+ 
+ 
+ <!--==================================Player Start============================================-->				
+				
+   <tr class="body">
+				<td class="table-content ">106</td>
+						    <td class="table-content left">
+									<a href="/players/maria-fassi/98615/overview">
+										<div class="flag">
+												<img src="-/media/images/global/countries/mex.png?mw=114&amp;mh=78" alt="Mexico">
+										</div>
+										Maria Fassi
+									</a>
+						    </td>
+ 	 <td class="table-content ">4</td>
+     <td class="table-content ">-1.92</td>
+     <td class="table-content ">-7.67</td>
+     <td class="table-content ">-6.35</td>
+     <td class="table-content ">-1.32</td>
+
+
+   </tr>
+  
+ <!--==================================Player End============================================-->
+ 
+ 
+
+ <!--==================================Player Start============================================-->				
+				
+   <tr class="body">
+					    <td class="table-content ">109</td>
+					    <td class="table-content left">
+								<a href="/players/austin-ernst/98213/overview">
+									<div class="flag">
+											<img src="-/media/images/global/countries/usa.png?mw=114&amp;mh=78" alt="United States">
+									</div>
+									Austin Ernst</a></td>
+ 	 <td class="table-content ">9</td>
+     <td class="table-content ">-1.94</td>
+     <td class="table-content ">-17.50</td>
+     <td class="table-content ">3.76</td>
+     <td class="table-content ">-21.26</td>
+
+
+   </tr>
+  
+ <!--==================================Player End============================================--> 
+  
+ 
+ <!--==================================Player Start============================================-->				
+				
+   <tr class="body">
+					    <td class="table-content ">110</td>
+						<td class="table-content left">
+									<a href="/players/lauren-kim/98617/overview">
+										<div class="flag">
+												<img src="-/media/images/global/countries/usa.png?mw=114&amp;mh=78" alt="United States">
+										</div>
+										Lauren Kim
+									</a>
+						    </td>
+ 	 <td class="table-content ">2</td>
+     <td class="table-content ">-2.12</td>
+     <td class="table-content ">-4.24</td>
+     <td class="table-content ">-3.25</td>
+     <td class="table-content ">-0.99</td>
+
+
+   </tr>
+  
+ <!--==================================Player End============================================-->   
+ 
+ 
+ <!--==================================Player Start============================================-->				
+				
+   <tr class="body">
+					    <td class="table-content ">110</td>
+						<td class="table-content left">
+									<a href="/players/emily-pedersen/98397/overview">
+										<div class="flag">
+												<img src="-/media/images/global/countries/den.jpg?mw=114&amp;mh=78" alt="Denmark">
+										</div>
+										Emily Kristine Pedersen
+									</a>
+						    </td>
+ 	 <td class="table-content ">2</td>
+     <td class="table-content ">-2.12</td>
+     <td class="table-content ">-4.23</td>
+     <td class="table-content ">-0.23</td>
+     <td class="table-content ">-4.00</td>
+
+
+   </tr>
+  
+ <!--==================================Player End============================================-->    
+ 
+    
+
+ <!--==================================Player Start============================================-->				
+				
+   <tr class="body">
+				<td class="table-content ">112</td>
+						    <td class="table-content left">
+									<a href="/players/yu-liu/98237/overview">
+										<div class="flag">
+												<img src="-/media/images/global/countries/chn.png?mw=114&amp;mh=78" alt="China">
+										</div>
+										Yu Liu
+									</a>
+						    </td>
+ 	 <td class="table-content ">4</td>
+     <td class="table-content ">-2.17</td>
+     <td class="table-content ">-8.68</td>
+     <td class="table-content ">-6.12</td>
+     <td class="table-content ">-2.56</td>
+
+
+   </tr>
+  
+ <!--==================================Player End============================================--> 
+ 
+ 
+ <!--==================================Player Start============================================-->				
+				
+   <tr class="body">
+				<td class="table-content ">112</td>
+					       <td class="table-content left">
+					   			<a href="/players/katherine-kirk/80850/overview">
+					   				<div class="flag">
+					   						<img src="-/media/images/global/countries/aus.gif?mw=114&amp;mh=78" alt="Australia">
+					   				</div>
+					   				Katherine Kirk
+					   			</a>
+					       </td>
+ 	 <td class="table-content ">4</td>
+     <td class="table-content ">-2.17</td>
+     <td class="table-content ">-8.67</td>
+     <td class="table-content ">-0.67</td>
+     <td class="table-content ">-8.07</td>
+
+
+   </tr>
+  
+ <!--==================================Player End============================================--> 
+ 
+ 
+ <!--==================================Player Start============================================-->				
+				
+   <tr class="body">
+		    <td class="table-content ">112</td>
+		    <td class="table-content left">
+					<a href="/players/peiyun-chien/98158/overview">
+						<div class="flag">
+								<img src="-/media/images/global/countries/tpe.png?mw=114&amp;mh=78" alt="Chinese Taipei">
+						</div>
+						Peiyun Chien
+					</a>
+		    </td>
+ 	 <td class="table-content ">4</td>
+     <td class="table-content ">-2.17</td>
+     <td class="table-content ">-8.66</td>
+     <td class="table-content ">-1.38</td>
+     <td class="table-content ">-7.28</td>
+
+
+   </tr>
+  
+ <!--==================================Player End============================================-->   
+ 
+ 
+ 
+ <!--==================================Player Start============================================-->				
+				
+   <tr class="body">
+				    <td class="table-content ">115</td>
+				    <td class="table-content left">
+							<a href="/players/brittany-lang/82819/overview">
+								<div class="flag">
+										<img src="-/media/images/global/countries/usa.png?mw=114&amp;mh=78" alt="United States">
+								</div>
+								Brittany Lang
+							</a>
+				    </td>
+ 	 <td class="table-content ">6</td>
+     <td class="table-content ">-2.21</td>
+     <td class="table-content ">-13.23</td>
+     <td class="table-content ">-8.35</td>
+     <td class="table-content ">-4.90</td>
+
+
+   </tr>
+  
+ <!--==================================Player End============================================--> 
+ 
+ 
+ <!--==================================Player Start============================================-->				
+				
+   <tr class="body">
+				<td class="table-content ">115</td>
+					       <td class="table-content left">
+					   			<a href="/players/gerina-mendoza/87765/overview">
+					   				<div class="flag">
+					   						<img src="-/media/images/global/countries/usa.png?mw=114&amp;mh=78" alt="United States">
+					   				</div>
+					   				Gerina Mendoza
+					   			</a>
+					       </td>
+ 	 <td class="table-content ">6</td>
+     <td class="table-content ">-2.21</td>
+     <td class="table-content ">-13.23</td>
+     <td class="table-content ">-12.37</td>
+     <td class="table-content ">-0.86</td>
+
+
+   </tr>
+  
+ <!--==================================Player End============================================--> 
+ 
+ 
+ <!--==================================Player Start============================================-->				
+				
+   <tr class="body">
+				<td class="table-content ">117</td>
+					       <td class="table-content left">
+					   			<a href="/players/jennifer-song/88275/overview">
+					   				<div class="flag">
+					   						<img src="-/media/images/global/countries/usa.png?mw=114&amp;mh=78" alt="United States">
+					   				</div>
+					   				Jennifer Song
+					   			</a>
+					       </td>
+ 	 <td class="table-content ">4</td>
+     <td class="table-content ">-2.42</td>
+     <td class="table-content ">-9.67</td>
+     <td class="table-content ">0.86</td>
+     <td class="table-content ">-10.53</td>
+
+
+   </tr>
+  
+ <!--==================================Player End============================================--> 
+ 
+ 
+
+ <!--==================================Player Start============================================-->				
+				
+   <tr class="body">
+		    <td class="table-content ">118</td>
+				    <td class="table-content left">
+							<a href="/players/jaye-marie-green/98216/overview">
+								<div class="flag">
+										<img src="-/media/images/global/countries/usa.png?mw=114&amp;mh=78" alt="United States">
+								</div>
+								Jaye Marie Green
+							</a>
+				    </td>
+ 	 <td class="table-content ">6</td>
+     <td class="table-content ">-2.54</td>
+     <td class="table-content ">-15.25</td>
+     <td class="table-content ">-11.82</td>
+     <td class="table-content ">-3.43</td>
+
+
+   </tr>
+  
+ <!--==================================Player End============================================-->  
+ 
+  
+
+
+ <!--==================================Player Start============================================-->				
+				
+   <tr class="body">
+			      <td class="table-content ">119</td>
+			     <td class="table-content left">
+			 			<a href="/players/esther-heseleit/100058/overview">
+			 				<div class="flag">
+			 						<img src="-/media/images/global/countries/ger.png?mw=114&amp;mh=78" alt="Germany">
+			 				</div>
+			 				Esther Henseleit
+			 			</a>
+			     </td>
+ 	<td class="table-content ">4</td>
+     <td class="table-content ">-2.67</td>
+     <td class="table-content ">-10.68</td>
+     <td class="table-content ">-5.48</td>
+     <td class="table-content ">-5.20</td>
+
+
+   </tr>
+  
+ <!--==================================Player End============================================-->
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+  
+ 
+ 
+ 
+ <!--==================================Player Start============================================-->				
+				
+   <tr class="body">
+				<td class="table-content ">120</td>
+					       <td class="table-content left">
+					   			<a href="/players/jenny-coleman/98528/overview">
+					   				<div class="flag">
+					   						<img src="-/media/images/global/countries/usa.png?mw=114&amp;mh=78" alt="United States">
+					   				</div>
+					   				Jenny Coleman
+					   			</a>
+					       </td>
+ 	 <td class="table-content ">4</td>
+     <td class="table-content ">-2.92</td>
+     <td class="table-content ">-11.68</td>
+     <td class="table-content ">-6.18</td>
+     <td class="table-content ">-5.50</td>
+
+
+   </tr>
+  
+ <!--==================================Player End============================================-->  
+ 
+ 
+ 
+ <!--==================================Player Start============================================-->				
+				
+   <tr class="body">
+				<td class="table-content ">120</td>
+						  <td class="table-content left">
+						  			<a href="/players/laura-davies/82630/overview">
+						  				<div class="flag">
+						  						<img src="-/media/images/global/countries/eng.png?mw=114&amp;mh=78" alt="England">
+						  				</div>
+						  				Laura Davies
+						  			</a>
+						      </td>
+ 	 <td class="table-content ">2</td>
+     <td class="table-content ">-3.12</td>
+     <td class="table-content ">-6.23</td>
+     <td class="table-content ">-1.61</td>
+     <td class="table-content ">-4.62</td>
+
+
+   </tr>
+  
+ <!--==================================Player End============================================-->  
+ 
+ 
+ 
+ <!--==================================Player Start============================================-->				
+				
+   <tr class="body">
+					       <td class="table-content ">122</td>
+					       <td class="table-content left">
+					   			<a href="/players/haeji-kang/87949/overview">
+					   				<div class="flag">
+					   						<img src="-/media/images/global/countries/kor.png?mw=114&amp;mh=78" alt="Republic of Korea">
+					   				</div>
+					   				Haeji Kang
+					   			</a>
+					       </td>
+ 	 <td class="table-content ">4</td>
+     <td class="table-content ">-3.67</td>
+     <td class="table-content ">-14.67</td>
+     <td class="table-content ">-12.17</td>
+     <td class="table-content ">-2.50</td>
+
+
+   </tr>
+  
+ <!--==================================Player End============================================-->
+ 
+ 
+ <!--==================================Player Start============================================-->				
+				
+   <tr class="body">
+				<td class="table-content ">123</td>
+						    <td class="table-content left">
+									<a href="/players/allison-emrey/88943/overview">
+										<div class="flag">
+												<img src="-/media/images/global/countries/usa.png?mw=114&amp;mh=78" alt="United States">
+										</div>
+										Allison Emrey
+									</a>
+						    </td>
+ 	 <td class="table-content ">6</td>
+     <td class="table-content ">-3.71</td>
+     <td class="table-content ">-22.24</td>
+     <td class="table-content ">-18.60</td>
+     <td class="table-content ">-3.64</td>
+
+
+   </tr>
+  
+ <!--==================================Player End============================================--> 
+ 
+ 
+
+ <!--==================================Player Start============================================-->				
+				
+   <tr class="body">
+					       <td class="table-content ">124</td>
+					       <td class="table-content left">
+					   			<a href="/players/mirim-lee/98054/overview">
+					   				<div class="flag">
+					   						<img src="-/media/images/global/countries/kor.png?mw=114&amp;mh=78" alt="Republic of Korea">
+					   				</div>
+					   				Mirim Lee
+					   			</a>
+					       </td>
+ 	 <td class="table-content ">7</td>
+     <td class="table-content ">-4.02</td>
+     <td class="table-content ">-28.17</td>
+     <td class="table-content ">-10.75</td>
+     <td class="table-content ">-17.42</td>
+
+
+   </tr>
+  
+ <!--==================================Player End============================================-->
+ 
+  
+ <!--==================================Player Start============================================-->				
+				
+   <tr class="body">
+					       <td class="table-content ">125</td>
+					       <td class="table-content left">
+					   			<a href="/players/beatriz-recari/88113/overview">
+					   				<div class="flag">
+					   						<img src="-/media/images/global/countries/esp.png?mw=114&amp;mh=78" alt="Spain">
+					   				</div>
+					   				Beatriz Recari
+					   			</a>
+					       </td>
+ 	 <td class="table-content ">3</td>
+     <td class="table-content ">-4.86</td>
+     <td class="table-content ">-14.59</td>
+     <td class="table-content ">-9.85</td>
+     <td class="table-content ">4.74</td>
+
+
+   </tr>
+  
+ <!--==================================Player End============================================-->
+ 
+
+
+
+ <!--==================================Player Start============================================-->				
+				
+   <tr class="body">
+					       <td class="table-content ">126</td>
+						   <td class="table-content left">
+						   			<a href="/players/michelle-wie/88106/overview">
+						   				<div class="flag">
+						   						<img src="-/media/images/global/countries/usa.png?mw=114&amp;mh=78" alt="United States">
+						   				</div>
+						   				Michelle Wie West
+						   			</a>
+						       </td>
+ 	 <td class="table-content ">3</td>
+     <td class="table-content ">-4.86</td>
+     <td class="table-content ">-14.59</td>
+     <td class="table-content ">-9.85</td>
+     <td class="table-content ">4.74</td>
+
+
+   </tr>
+  
+ <!--==================================Player End============================================--> 
+
+
+
+
+
+ <!--==================================Player Start============================================-->				
+				
+   <tr class="body">
+					    <td class="table-content ">127</td>
+					    <td class="table-content left">
+								<a href="/players/luna-sobron-galmes/98619/overview">
+									<div class="flag">
+											<img src="-/media/images/global/countries/esp.png?mw=114&amp;mh=78" alt="Spain">
+									</div>
+									Luna Sobron Galmes
+								</a>
+					    </td>
+								
+ 	 <td class="table-content ">1</td>
+     <td class="table-content ">-5.48</td>
+     <td class="table-content ">-5.48</td>
+     <td class="table-content ">-4.12</td>
+     <td class="table-content ">-1.36</td>
+
+
+   </tr>
+  
+ <!--==================================Player End============================================-->
+
+
+ <!--==================================Player Start============================================-->				
+				
+   <tr class="body">
+					    <td class="table-content ">128</td>
+					    <td class="table-content left">
+								<a href="/players/na-yeon-choi/82878/overview">
+									<div class="flag">
+											<img src="-/media/images/global/countries/kor.png?mw=114&amp;mh=78" alt="Republic of Korea">
+									</div>
+									Na Yeon Choi
+								</a>
+					    </td>
+ 	 <td class="table-content ">4</td>
+     <td class="table-content ">-6.81</td>
+     <td class="table-content ">-27.22</td>
+     <td class="table-content ">-19.86</td>
+     <td class="table-content ">-7.36</td>
+
+
+   </tr>
+  
+ <!--==================================Player End============================================-->
+
+
+ 
+ <!--==================================Player Start============================================-->				
+				
+   <tr class="body">
+					    <td class="table-content ">129</td>
+					    <td class="table-content left">
+								<a href="/players/angel-yin/98263/overview">
+									<div class="flag">
+											<img src="-/media/images/global/countries/usa.png?mw=114&amp;mh=78" alt="United States">
+									</div>
+									Angel Yin
+								</a>
+					    </td>
+ 	 <td class="table-content ">4</td>
+     <td class="table-content ">-6.92</td>
+     <td class="table-content ">-27.67</td>
+     <td class="table-content ">-26.77</td>
+     <td class="table-content ">-0.90</td>
+
+
+   </tr>
+  
+ <!--==================================Player
+ End============================================-->
+
+
+
+
+
+  
+  
+  
+            </tbody>
+        </table>
