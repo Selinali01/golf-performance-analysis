@@ -3,7 +3,7 @@
 <div align="center">
 
 [[Project Report]](https://drive.google.com/file/d/19-FwjEhwABIVpY6qxvZ6Imwnv-t6WjWZ/view)
-[[Code]](https://drive.google.com/file/d/19-FwjEhwABIVpY6qxvZ6Imwnv-t6WjWZ/view)
+[[Code]](https://github.com/Selinali01/golf-performance-analysis)
 ______________________________________________________________________
 
 ![](assets/project.png)
