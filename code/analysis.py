@@ -5,6 +5,8 @@ from sklearn.metrics import mean_squared_error, mean_absolute_error, r2_score
 import numpy as np
 from sklearn.ensemble import RandomForestRegressor
 from sklearn.model_selection import train_test_split
+from sklearn.ensemble import GradientBoostingRegressor
+from sklearn.neural_network import MLPRegressor
 
 # Set variables
 # Import either PGA or LPGA data
@@ -44,13 +46,11 @@ elif (model == "random_forest"):
     y_pred = rf.predict(X_test_scaled)
 
 elif(model == "gradient_boosting"):
-    from sklearn.ensemble import GradientBoostingRegressor
     gb = GradientBoostingRegressor()
     gb.fit(X_train_scaled, y_train)
     y_pred = gb.predict(X_test_scaled)
 
 elif(model == "neural_network"):
-    from sklearn.neural_network import MLPRegressor
     nn = MLPRegressor()
     nn.fit(X_train_scaled, y_train)
     y_pred = nn.predict(X_test_scaled)
