@@ -36,5 +36,5 @@ python pga.py
 ```
 python analysis.py
 ```
-Change the top line import function in `analysis.py` to switch from LPGA to PGA data. 
+Set appropriate variables `analysis.py` to switch from LPGA to PGA data, and run appropriate model (linear, random forest, gradient boosting, neural network).
 

@@ -1,30 +1,62 @@
-from pga import X_train, X_test, y_train, y_test, X, y, X_test_scaled, X_train_scaled
-#from lpga import X_train, X_test, y_train, y_test, X, y, X_test_scaled, X_train_scaled
-
 import pandas as pd
 import numpy as np
 from sklearn.linear_model import LinearRegression
 from sklearn.metrics import mean_squared_error, mean_absolute_error, r2_score
 import numpy as np
+from sklearn.ensemble import RandomForestRegressor
+from sklearn.model_selection import train_test_split
 
-# Linear regression model 
-lr = LinearRegression()
-print(X_train_scaled)
+# Set variables
+# Import either PGA or LPGA data
+gender = "lpga" 
+# Choose Model: linear / random_forest / gradient_boosting / neural_network
+model = "random_forest"
 
-# Check if X_train_scaled or X_test_scaled has Nan values
-#Fit on scaled training data
-lr.fit(X_train_scaled, y_train)
- 
-# Print linear regression model coefficients in table
-print('Intercept: ', lr.intercept_)
-# Label coefficients with feature names
-coefficients = pd.DataFrame(data=lr.coef_, index=X.columns, columns=['Coefficients'])
-print(coefficients)
-#print('Coefficients: ', lr.coef_)
+if (gender == "pga"):
+    from pga import X_train, X_test, y_train, y_test, X, y, X_test_scaled, X_train_scaled
+else:
+    from lpga import X_train, X_test, y_train, y_test, X, y, X_test_scaled, X_train_scaled
 
-# Make predictions on the test data
-y_pred = lr.predict(X_test_scaled)
+# Fit Model depending 
+if (model == "linear"):
+    # Linear regression model 
+    lr = LinearRegression()
+    print(X_train_scaled)
 
+    # Check if X_train_scaled or X_test_scaled has Nan values
+    #Fit on scaled training data
+    lr.fit(X_train_scaled, y_train)
+    
+    # Print linear regression model coefficients in table
+    print('Intercept: ', lr.intercept_)
+    # Label coefficients with feature names
+    coefficients = pd.DataFrame(data=lr.coef_, index=X.columns, columns=['Coefficients'])
+    print(coefficients)
+    #print('Coefficients: ', lr.coef_)
+
+    # Make predictions on the test data
+
+    y_pred = lr.predict(X_test_scaled)
+
+elif (model == "random_forest"):
+    rf = RandomForestRegressor()
+    rf.fit(X_train_scaled, y_train)
+    y_pred = rf.predict(X_test_scaled)
+
+elif(model == "gradient_boosting"):
+    from sklearn.ensemble import GradientBoostingRegressor
+    gb = GradientBoostingRegressor()
+    gb.fit(X_train_scaled, y_train)
+    y_pred = gb.predict(X_test_scaled)
+
+elif(model == "neural_network"):
+    from sklearn.neural_network import MLPRegressor
+    nn = MLPRegressor()
+    nn.fit(X_train_scaled, y_train)
+    y_pred = nn.predict(X_test_scaled)
+
+
+# Model Analysis
 # Calculate the MSE and MAE and RMSE and R^2
 mse = mean_squared_error(y_test, y_pred)
 mae = mean_absolute_error(y_test, y_pred)
